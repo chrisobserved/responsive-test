@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^9.6.0",
     "grunt": "^1.0.4",
     "grunt-autoprefixer": "^2.2.0",
     "grunt-browser-sync": "^2.1.1",
